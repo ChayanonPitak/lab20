@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นาย ชญนนท์ พิทักษ์
+# STUDENT ID: 630610724
